@@ -12,5 +12,6 @@ Ao fazer a roscano ato da instalação permite melhor resistência interna a fad
 
 Obs:
 
-Gcode Pino Trava Kwid I -> Orientação Vertical da peça para impressão
-Gcode Pino Trava Kwid II -> Orientação Horizontal da peça para impressão
+Gcode Pino Trava Kwid I -> Orientação Vertical da peça para impressão.
+
+Gcode Pino Trava Kwid II -> Orientação Horizontal da peça para impressão.

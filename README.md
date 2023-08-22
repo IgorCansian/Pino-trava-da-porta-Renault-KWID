@@ -7,8 +7,7 @@ Disponibilizado em diferentes formatos, possibilitando ajustes no fatiador e/ou 
 
 Recomenda-se realizar a impressão da peça na posição horizontal para maior resistência e durabilidade.
 
-A rosca interna não foi desenha, possibilitando eventuais diferenças do passo do parafuso da porta, no qual esta peça deverá ser rosqueada. 
-Ao fazer a roscano ato da instalação permite melhor resistência interna a fadiga no uso diário.
+A rosca interna não foi desenha, devido a eventuais diferenças do passo do parafuso da porta ao ano de fabricação do veículo. Esta peça deverá ser rosqueada no parafuso, criando naturalmente a rosca interna no modelo impresso. Criar a rosca no ato da instalação, permite melhor resistência interna a fadiga no uso diário.
 
 Obs:
 

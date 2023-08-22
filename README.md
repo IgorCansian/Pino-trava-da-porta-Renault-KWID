@@ -1,5 +1,5 @@
 # KWID
-Peça 3D "Pino Trava da Porta do automóvel Renault KWID" para reposição e uso particular. Sem fins comerciais.
+Peça 3D "Pino Trava da Porta do Automóvel Renault KWID" para reposição e uso particular. Sem fins comerciais.
 
 Não me responsabilizo sobre eventual uso comercial da peça, sendo de inteira responsabilidade do executante da ação.
 

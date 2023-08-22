@@ -15,4 +15,4 @@ Gcode Pino Trava Kwid I -> Orientação Vertical da peça para impressão.
 
 Gcode Pino Trava Kwid II -> Orientação Horizontal da peça para impressão.
 
-Filamento de impressão sugerido = PLA
+Filamento de impressão sugerido: PLA
